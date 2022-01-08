@@ -26,7 +26,7 @@
 
 // //var has some problems
 
-// //1st problem : Redeclaration
+// //1st problem with var: Redeclaration
 // var b = 'hello'
 // console.log(b)
 // var b = 'bye'
